@@ -27,7 +27,7 @@
   "dependencies": {
     "find-up": "^5.0.0",
     "fs-extra": "^11.1.0",
-    "js-yaml": "^4.1.0",
+    "js-yaml": "^4.1.1",
     "log-update": "^4.0.0",
     "node-fetch": "^2.6.8",
     "progress": "^2.0.3",
