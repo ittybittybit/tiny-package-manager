@@ -32,7 +32,7 @@
     "node-fetch": "^2.6.8",
     "progress": "^2.0.3",
     "semver": "^7.3.8",
-    "tar": "^6.1.13",
+    "tar": "^7.5.7",
     "yargs": "^17.6.2"
   },
   "devDependencies": {
