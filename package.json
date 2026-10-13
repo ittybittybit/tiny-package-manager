@@ -27,12 +27,12 @@
   "dependencies": {
     "find-up": "^5.0.0",
     "fs-extra": "^11.1.0",
-    "js-yaml": "^4.1.0",
+    "js-yaml": "^4.1.1",
     "log-update": "^4.0.0",
     "node-fetch": "^2.6.8",
     "progress": "^2.0.3",
-    "semver": "^7.3.8",
-    "tar": "^6.1.13",
+    "semver": "^7.5.2",
+    "tar": "^7.5.8",
     "yargs": "^17.6.2"
   },
   "devDependencies": {
